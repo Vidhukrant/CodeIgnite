@@ -7,7 +7,7 @@
 	</listeners>
 
 
-	<test name="Free CRM App Test Cases">
+	<test name="Facebook application">
 		<classes>
 			<class name="com.qa.testcases.LoginPageTest"></class>
 			
